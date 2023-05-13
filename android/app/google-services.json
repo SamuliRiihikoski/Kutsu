@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "915956914124",
+    "project_id": "date-planner-d5054",
+    "storage_bucket": "date-planner-d5054.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915956914124:android:a9c954d3e6cb66e4f5af69",
+        "android_client_info": {
+          "package_name": "com.example.kutsu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915956914124-ncke7tt1dbtvmvst05tcjbvhov119k1i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kutsu",
+            "certificate_hash": "831b9b317c18f4b0b873afc88237fc79d690385e"
+          }
+        },
+        {
+          "client_id": "915956914124-f30ons9scclua1hiq5ut1uof4ku7vqgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA5yNb75iRpBTv7m9RtX4KCXMvurWxKLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915956914124-50l056tu29ktfd4l5lvrh9qn3f8s3b1r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "915956914124-8s7u6q8ui387abgk3mfaom7mafip2dhs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.signWithGoogle"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915956914124:android:4497e0096ddc3516f5af69",
+        "android_client_info": {
+          "package_name": "com.kutsu.riihikoski"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915956914124-ott5tp5uk7ql183dh83gpl2nos941gds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kutsu.riihikoski",
+            "certificate_hash": "831b9b317c18f4b0b873afc88237fc79d690385e"
+          }
+        },
+        {
+          "client_id": "915956914124-f30ons9scclua1hiq5ut1uof4ku7vqgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA5yNb75iRpBTv7m9RtX4KCXMvurWxKLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915956914124-50l056tu29ktfd4l5lvrh9qn3f8s3b1r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "915956914124-8s7u6q8ui387abgk3mfaom7mafip2dhs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.signWithGoogle"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
